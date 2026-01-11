@@ -3,6 +3,6 @@ hhellhellhellellow git
 hhellhellhellellow git
 hhellhellhellellow git
 hhellhellhellellow git
-hhellhellhellellow git
+hhellhellhellellow git 测试add暂存区会不会导致版本冲突
 hhellhellhellellow git 21312132
 这个是新分支的
